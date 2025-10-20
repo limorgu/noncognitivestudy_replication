@@ -10,7 +10,7 @@ This repository replicates the analyses from:
 
 ---
 
-## 📦 Contents
+## Contents
 
 - **`outputs/replication_pipeline.ipynb`** — end-to-end pipeline that saves a pre-model dataset and results CSV for each RQ.  
 - **`outputs/replication_pipeline_studex_only.ipynb`** — student-level pipeline (uses `stud_ex.csv` only); RQ4.2 falls back to OLS on `avg_pt_accuracy`.  
@@ -25,7 +25,7 @@ Each notebook writes artifacts to `outputs/`:
 
 ---
 
-## 🗂 Expected Data
+## Expected Data
 
 data/
 stud_ex.csv # student-level summary (RQ1–RQ4.1)
@@ -39,7 +39,7 @@ Copy code
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 **Option A — Local Jupyter (recommended)**
 
